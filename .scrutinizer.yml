@@ -1,0 +1,9 @@
+build:
+  environment:
+    php: 7.1
+    elasticsearch: true
+checks:
+  php: true
+filter:
+  paths:
+    - src/*

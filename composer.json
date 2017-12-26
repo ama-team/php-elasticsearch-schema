@@ -13,6 +13,8 @@
     }
   ],
   "require": {
+    "php": ">= 7.1",
+    "ext-json": "*",
     "ama-team/elasticsearch-schema-definitions": "dev-dev"
   },
   "require-dev": {
