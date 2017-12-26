@@ -18,7 +18,8 @@
     "ama-team/elasticsearch-schema-definitions": "dev-dev"
   },
   "require-dev": {
-    "codeception/codeception": "^2.3"
+    "codeception/codeception": "^2.3",
+    "allure-framework/allure-codeception": "^1.2"
   },
   "autoload": {
     "psr-4": {
