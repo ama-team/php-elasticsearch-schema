@@ -9,6 +9,9 @@ and rendering schema as native PHP objects.
 
 ## Installation
 
+This project requires PHP 7.1, ext-json and symfony/yaml (through 
+`ama-team/elasticsearch-schema-definitions`) to work correctly.
+
 ```bash
 composer require ama-team/elasticsearch-schema
 ```
