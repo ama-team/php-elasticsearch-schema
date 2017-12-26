@@ -1,0 +1,7 @@
+# IDE files
+.idea
+
+# Composer artifacts
+vendor
+bin
+composer.lock
