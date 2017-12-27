@@ -13,3 +13,7 @@ extensions:
     Yandex\Allure\Adapter\AllureAdapter:
       deletePreviousResults: true
       outputDirectory: ../Metadata/Allure
+coverage:
+  enabled: true
+  include:
+    - src/*
