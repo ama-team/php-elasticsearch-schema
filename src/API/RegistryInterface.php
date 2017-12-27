@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace AmaTeam\ElasticSearch\Schema\API;
 
-use AmaTeam\ElasticSearch\Schema\API\Schema\ProductSchemaInterface;
+use AmaTeam\ElasticSearch\Schema\API\Entity\Schema\ProductSchemaInterface;
 
 interface RegistryInterface
 {
