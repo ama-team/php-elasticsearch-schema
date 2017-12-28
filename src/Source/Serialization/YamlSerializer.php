@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AmaTeam\ElasticSearch\Schema\Source;
+namespace AmaTeam\ElasticSearch\Schema\Source\Serialization;
 
 use AmaTeam\ElasticSearch\Schema\API\Source\SerializationException;
 use AmaTeam\ElasticSearch\Schema\API\Source\SerializerInterface;

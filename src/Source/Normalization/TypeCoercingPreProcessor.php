@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AmaTeam\ElasticSearch\Schema\Source\Serialization;
+namespace AmaTeam\ElasticSearch\Schema\Source\Normalization;
 
 use AmaTeam\ElasticSearch\Schema\Entity\Schema\ConfigurationOption;
 use AmaTeam\ElasticSearch\Schema\Entity\Schema\IndexSetting;

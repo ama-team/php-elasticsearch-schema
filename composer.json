@@ -20,7 +20,8 @@
     "league/flysystem": "^1.0",
     "jms/serializer": "^1.10",
     "opis/json-schema": "^1.0",
-    "remorhaz/php-json-pointer": "^0.4.0"
+    "remorhaz/php-json-pointer": "^0.4.0",
+    "league/uri": "^5.2"
   },
   "require-dev": {
     "codeception/codeception": "^2.3",

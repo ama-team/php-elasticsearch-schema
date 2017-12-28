@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AmaTeam\ElasticSearch\Schema\Source\Serialization;
+namespace AmaTeam\ElasticSearch\Schema\Source\Normalization;
 
 use JMS\Serializer\EventDispatcher\PreDeserializeEvent;
 

@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace AmaTeam\ElasticSearch\Schema\Source;
 
-use AmaTeam\ElasticSearch\Schema\Source\Serialization\DeserializationContextFactory;
-use AmaTeam\ElasticSearch\Schema\Source\Serialization\KeyAssuringPreProcessor;
-use AmaTeam\ElasticSearch\Schema\Source\Serialization\SerializationContextFactory;
-use AmaTeam\ElasticSearch\Schema\Source\Serialization\TypeCoercingPreProcessor;
+use AmaTeam\ElasticSearch\Schema\Source\Normalization\DeserializationContextFactory;
+use AmaTeam\ElasticSearch\Schema\Source\Normalization\KeyAssuringPreProcessor;
+use AmaTeam\ElasticSearch\Schema\Source\Normalization\SerializationContextFactory;
+use AmaTeam\ElasticSearch\Schema\Source\Normalization\TypeCoercingPreProcessor;
 use JMS\Serializer\ArrayTransformerInterface;
 use JMS\Serializer\EventDispatcher\EventDispatcher;
 use JMS\Serializer\Naming\CamelCaseNamingStrategy;
